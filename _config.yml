@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kalie Knecht
+title                    : "Kalie Knecht"
 title_separator          : "-"
 name                     : &name "Kalie Knecht"
 description              : &description "Kalie is a Nuclear Engineering PhD student at UC Berkeley interested in radiation detection for applications in nuclear safeguards, security, and nonproliferation."
