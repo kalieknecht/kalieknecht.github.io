@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kalie Knecht"
 title_separator          : "-"
 name                     : &name "Kalie Knecht"
-description              : &description "Kalie is a Nuclear Engineering PhD student at UC Berkeley interested in radiation detection for applications in nuclear safeguards, security, and nonproliferation."
+description              : &description "Nuclear Engineering PhD student at UC Berkeley."
 url                      : "https://kalieknecht.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kalieknecht/kalieknecht.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kalieknecht/"
+  linkedin         : "kalieknecht"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
