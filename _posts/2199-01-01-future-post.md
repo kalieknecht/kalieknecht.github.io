@@ -1,11 +1,115 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Strategies for a strong grad school application'
+date: 2019-10-28 20:23:00 -0700
+permalink: /posts/2019/10/grad-app/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - professional
+  - gradschool
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+oing to grad school can open all kinds of doors for you professionally. However,  there's  one huge step you have to take before it even begins: the application. Grad applications are a stressful and daunting tasks, but there are steps you can take to make your application more powerful. I hope to break down the steps for you, and give other pointers that can help you stand out from the pool of applicants!
+
+Note that this is advice that I recieved while applying to engineering PhD programs, so if that isn't what you are applying to, the applicability of this advice might vary. Also, I am a first year grad student myself, so this is more or less a compilation of advice I recieved when I was working on my applications.
+
+First, let's talk about the components of a grad school application. In no particular order, they are:
+* Letters of Recommendation
+* Personal Statement
+* Statement of Purpose
+* Resume
+* GPA
+* GRE Scores
+
+I don't have these in any particular order, because every person you talk to will tell you which one is the most important. Grad admissions are a wholistic process, so truthfully they are **all** important. Now let's break down how to ace each of these components.
+
+## Letters of Recommendation
+Your applications will typically ask for 3 letters of recommendation. The key thing is securing 3 **STRONG** letters of recommendation.
+
+### Who to Pick
+You want to find people who can talk specifically about your skill set and work ethic, and provide insight on why you would be a valuable institution to the school you are applying to. This can include (but is not limited  to):
+* Former industry bosses 
+* Former national lab mentors
+* Professors at your home institution who you've done research for 
+* Professors who've instructed you 
+* Professors who serve as advisors for a club that you are involved in
+* Professors from a school you did an REU at
+
+ Note that having a relationship with your letter writers is important! A generic "this student I don't know asked me for a letter of recommendation" letter is about as good as no letter at all.
+
+### The Ask
+So you have three people in mind. Now how do you ask them? It can feel rather uncomfortable, especially if this is your first time asking for a letter of reference. Here are some tips on making the ask:
+* Ask as early as possible - as early as when applications open. 
+* Ask in person if at all possible. Be sure to follow up the in-person with an email.
+* Specifically ask if they can write you a **STRONG** letter. If they feel like they can only write a generic letter for you, they will hopefully let you know so you can ask someone else instead.
+
+Keep in mind that you are asking for a letter - you should not expect yes as an answer. And if they say yes, make sure you express how grateful you are!
+
+### The Email
+Should include:
+* Which programs you are applying to 
+* Due dates for each program
+* Your research interests/plans
+* If you have anything specific that you would like them to highlight, you should include that as well
+
+Ideally, communicate all  of this information in as concise of a manner as possible. If you are not comfortable sending emails like this, have someone look over it before you press send.
+
+### The Follow Up
+As the due date approaches, feel free to send occaisonal reminder emails. 
+
+When you start hearing back from schools, you should keep your letter writers updated with your acceptances. 
+
+Throughout this entire process you should be saying thank you a lot! It is good etiquette to write a thank you note at the end of the application process. Many people will also get a small gift of appreciation for their letter writers (this is a nice gesture but it is absolutely NOT expected or required). 
+
+
+## Statement of Purpose
+The statement of purpose is where you highlight your research interests, career goals, and how the skills you've built so far will make you a successful PhD student. If you've been applying to scholarships during undergrad, you can likely  mostly recycle your scholarship essays and build upon it. 
+
+Make sure you have people read over this, both technical and non-technical. This is one of the most important aspects of your application!
+
+I also want to point out that **it is absolutely okay to not have a research hypothesis yet**. You can spend your first year of grad school carving out a question for your research. However, you should at least be able to give a general idea of your interests.
+
+You can reuse a lot of this essay for each of the schools you apply to, but make sure that at some point you specifically identify how that specific institution will help you reach your career goals. 
+
+I've heard conflicting advice on whether you should specifically name professors you want to work for in this essay.  If you name the professor, that increases the liklihood that your application reaches their hands. However, if you only name one professor and they aren't accepting students, your application might get put to the side. Ultimately, it is up to decide if you think this is worth doing or not.
+
+## Personal Statement
+The personal statement is an opportunity to talk about your background and life experiences, and any challenges you might have faced. This isn't something that all applications will ask for - I think only two programs asked for it when I applied. 
+
+If there is some sort of [university fellowship](https://grad.berkeley.edu/admissions/apply/fellowships-entering/) that you believe you're eligible for, you might want to include the details pertinent to that here.
+
+For example, I made my personal statement about being part of an underrepresnted group in STEM. I talked about the challenges underrepresnted groups face, and what I have done to combat those challenges. This got me nominated for a Chancellor's Fellowship at UC Berkeley, because one of the things they look for is applicants who advance diversification of the university. 
+
+## Resume
+You should tailor your resume to what professors will want to see in your grad school application. This means you will want to highlight research experiences, publications, and any technical skills you might have. It is okay if you don't have any publications yet, but if you do you will absolutely want to highlight that. If you have relevant class projects, you should include those as well! 
+
+This is also a great way to highlight leadership experience. I included my leadership positions in The Society of Women Engineers,  which tied in really well with my personal statement. 
+
+If you have a LinkedIn, GitHub, and/or personal website you should include those links on your resume. 
+
+Make sure you use your campus resources (like a career center) to get your resume looked over before you submit it.
+
+## GPA 
+Different programs will have different average GPAs for admitted applicants. Sometimes your GPA will not be as high as the average GPA, but it is important to keep in mind that it is an AVERAGE - this means some people with a lower GPA WERE admitted. 
+
+If you are currently applying to graduate schools, there is not a whole lot you can do to change your GPA. If you have a good GPA, you don't have anything to worry about. If your GPA isn't the strongest, you need to make sure you make other aspects of your application strong. However, like I said, you should not be discouraged from applying just because you don't have the average admitted GPA.
+
+## GRE Scores
+I see this pretty similar to the way I see GPA - there is an average accepted score, but you shouldn't consume yourself with the number. However, this is a lot easier than GPA to bring up in the short term. If you aren't happy with your GRE score, prepare some more and take it again!
+
+To maximize your GRE score, it is best to take it as early as possible. I took it the first time during my Junior year, then studied more over the summer and took it again at the beginning of my senior year. 
+
+I've heard people say that having a great GRE score can counterbalance a lower GPA, but I haven't confirmed  if this is true or not.
+
+## Other tips for success
+There are things you can do OUTSIDE of the application to make yourself stand out from other applicants. 
+
+### Send an email
+A great way to make yourself stand out is to email the professors you are interested in working for. All you have to do is make a quick introduction of yourself, tell them what research of theirs you found interesting, ask if they are taking new students this year, and attach your resume. This can help you get your name into their head, so they remember to look for you when they start looking through applications. One of my friends would also ask professors if they had time for a phone call or Skype session to discuss research opportunities. She had a number of Skype calls, and was pretty successful in getting into the schools she applied to.
+
+### Go to conferences
+If there is an organization specific to your discipline, it is a great idea to attend conferences to network with prospective advisors. This can help you both get your name out there, and meet new professors to apply to!
+
+### Make a 'professional' Twitter
+This is a newer (and cheaper) way of networking than going to conferences! It can also help you keep up with current issues and topics in your field. Having a Twitter is a great way of establishing a 'personal brand,' especially as a young academic!
+
+### Ask for help
+Reach out to your peers and mentors for help with this process. It can be very stressful, and sometimes it's good  to just hear someone say they believe in you. If you want someone to help you through this process or to look through your application materials, I would be more than happy to help if you [email me](mailto:kalie@berkeley.edu)!
