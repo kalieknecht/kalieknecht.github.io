@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
-# Curriculum Vitae
-You can download a PDF of my CV [here](/files/KalieKnechtResume.pdf).
+## Lawrence Berkeley National Laboratory
+**Graduate Research Assistant** | August 2019 - Present
+* 3D Compton image reconstruction with scene data fusion using a free-moving gamma-ray detector and auxillary contextual sensor package
+* Analyzing contaminated parking lot data from Fukushima Daiichi Nuclear Power Plant
 
-# Work Experience
 ## Oak Ridge National Laboratory
 **Safeguards & Security Technology Intern** | May 2019 - August 2019
 * [End of Summer Poster](/files/ORNL.pdf).
