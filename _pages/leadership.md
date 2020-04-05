@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 {% include base_path %}
-# Leadership Experience
 ## Society of Women Engineers - Society Level
 **GradSWE Community Mentoring Coordinator** | October 2019 - Present
 * Communicating with the GradSWE community and SWE as a whole about the GradSWE Mentoring program.

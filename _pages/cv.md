@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-# Curriculum Vitae
 You can download a PDF of my CV [here](/files/KalieKnechtResume.pdf).
+
 
 # Education
 ## University of California, Berkeley
