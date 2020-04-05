@@ -23,10 +23,17 @@ August 2019 - Present
 **Bachelor's of Science in Nuclear Engineering** |
 August 2014 - May 2019
 
-* Studied abroad in London, Prague, and Vienna during summer terms
-* Completed a reactor physics laboratory using the VR-1 reactor at the Czech Technical University 
-* Visited the Vienna United Nations complex and attended talks by the IAEA and CTBTO 
-* Senior design project: Core Design of a NuScale SMR using CASL's Virtual Enviornment for Reactor Applications (VERA)
+* Studied abroad in London, Prague, and Vienna during summer terms.
+* Completed a reactor physics laboratory using the VR-1 reactor at the Czech Technical University.
+* Visited the Vienna United Nations complex and attended talks by the IAEA and CTBTO.
+* Senior design project: Core Design of a NuScale SMR using CASL's Virtual Enviornment for Reactor Applications (VERA).
+
+# Skills
+* **Programming Languages**: Python and Fortran
+* **Code Proficiencies**: MCNP, GOTHIC, and Cyclus
+* **Software Proficiencies**: MS Office, LaTeX, and Matlab
+* **Operating Systems**: Windows, macOS, and Linux
+* **Laboratory Skills**: Solid State Synthesis, X-ray Diffraction, Radiation Measurements, and Gamma Ray Spectrum Analysis
 
 # Work Experience
 Read about my work experience [here](/experience).
