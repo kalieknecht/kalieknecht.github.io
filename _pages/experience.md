@@ -9,7 +9,7 @@ author_profile: true
 ## Lawrence Berkeley National Laboratory
 **Graduate Research Assistant** | August 2019 - Present
 * 3D Compton image reconstruction with scene data fusion using a free-moving gamma-ray detector and auxillary contextual sensor package.
-* Analyzing contaminated parking lot data from Fukushima Daiichi Nuclear Power Plant.
+* Analyzing data from Fukushima Daiichi Nuclear Power Station parking lot with contaminated vehicles that were used in site cleanup.
 
 ## Oak Ridge National Laboratory
 **Safeguards & Security Technology Intern** | May 2019 - August 2019
