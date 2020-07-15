@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 ## University of California, Berkeley
-**Graduate Student Instructor** | August 2020 - December 2002
+**Graduate Student Instructor** | August 2020 - December 2020
 * Nuclear Engineering 107 - Radiation Detection and Nuclear Instrumentation Laboratory
 * Recording laboratory experiments to ensure safe \& equitable learning during the COVID-19 pandemic.
 
