@@ -12,13 +12,16 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "Work Experience"
+  - title: "Experience"
     url: /experience/
     
   - title: "Leadership"
     url: /leadership/
+  
+  - title: "Awards &  Features"
+    url: /awards/
         
-  - title: "Blog Posts"
+  - title: "Resources"
     url: /year-archive/
     
 
