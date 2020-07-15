@@ -60,9 +60,3 @@ author_profile: true
 * Reported the startup physics testing for Surry Unit 2.
 * Used CASMO to model new Surry Power Station fuel assemblies.
 * Analyzed control rod drop times during startup physics testing at North Anna Unit 2.
-  
-# Teaching
-### The University of Tennessee, Knoxville
-**Undergraduate Teaching Assistant** | August 2018 - May 2019
-* Developed weekly review sessions for Thermal Science and Reactor Theory courses.
-* Provided tutoring services for students enrolled in Thermal Science and Reactor Theory.
