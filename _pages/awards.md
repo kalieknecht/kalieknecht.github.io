@@ -7,21 +7,20 @@ author_profile: true
 
 {% include base_path %}
 ## Featured Articles
-* [GradSWE Graduate Member Spotlight: Kalie Knecht](http://gradswe.swe.org/gradswe-blog/graduate-member-spotlight-kalie-knecht) - February 2020
+* [GradSWE Graduate Member Spotlight: Kalie Knecht](http://gradswe.swe.org/gradswe-blog/graduate-member-spotlight-kalie-knecht) on GradSWE Blog - February 2020
 
-* [The Prague Connection](https://ne.utk.edu/prague-connection/) - May 2019
+* [The Prague Connection](https://ne.utk.edu/prague-connection/) on UTK NE Website - May 2019
 
-* [Kalie Knecht Leads with SWEet Volunteer Spirit](https://ne.utk.edu/kalie-knecht-leads-with-sweet-volunteer-spirit/) - February 2019
+* [Kalie Knecht Leads with SWEet Volunteer Spirit](https://ne.utk.edu/kalie-knecht-leads-with-sweet-volunteer-spirit/) on UTK NE Website - February 2019
 
-* [American Nuclear Society shapes, connects nuclear scientists of tomorrow](http://www.utdailybeacon.com/news/student_oranizations/american-nuclear-society-shapes-connects-nuclear-scientists-of-tomorrow/article_16f177c4-2237-11e8-b65f-370f0ec25024.html) - March 2018
+* [American Nuclear Society shapes, connects nuclear scientists of tomorrow](http://www.utdailybeacon.com/news/student_oranizations/american-nuclear-society-shapes-connects-nuclear-scientists-of-tomorrow/article_16f177c4-2237-11e8-b65f-370f0ec25024.html) from UT Daily Beacon - March 2018
 
 ## Blog Posts Written by Me
-* [Am I Doing Enough- Imposter Syndrome During COVID-19](https://alltogether.swe.org/2020/05/am-i-doing-enough-imposter-syndrome-during-covid-19/) - May 2020
+* [Am I Doing Enough- Imposter Syndrome During COVID-19](https://alltogether.swe.org/2020/05/am-i-doing-enough-imposter-syndrome-during-covid-19/) on SWE All Together Blog - May 2020
 
-* [Am I Doing Enough - Imposter Syndrome During Covid-19](http://gradswe.swe.org/gradswe-blog/am-i-doing-enough-imposter-syndrome-during-covid-19) - April 2020
+* [Am I Doing Enough - Imposter Syndrome During Covid-19](http://gradswe.swe.org/gradswe-blog/am-i-doing-enough-imposter-syndrome-during-covid-19) on GradSWE Blog - April 2020
 
-* [Creating a Website to Manage Your Personal Brand on GradSWE Blog](http://gradswe.swe.org/gradswe-blog/creating-a-website-to-manage-your-personal-brand)
-Jan 2020
+* [Creating a Website to Manage Your Personal Brand](http://gradswe.swe.org/gradswe-blog/creating-a-website-to-manage-your-personal-brand) on GradSWE Blog - Jan 2020
 
 
 ## Awards
