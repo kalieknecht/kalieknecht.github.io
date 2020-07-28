@@ -15,14 +15,6 @@ author_profile: true
 
 * [American Nuclear Society shapes, connects nuclear scientists of tomorrow](http://www.utdailybeacon.com/news/student_oranizations/american-nuclear-society-shapes-connects-nuclear-scientists-of-tomorrow/article_16f177c4-2237-11e8-b65f-370f0ec25024.html) from UT Daily Beacon - March 2018
 
-## Blog Posts Written by Me
-* [Am I Doing Enough- Imposter Syndrome During COVID-19](https://alltogether.swe.org/2020/05/am-i-doing-enough-imposter-syndrome-during-covid-19/) on SWE All Together Blog - May 2020
-
-* [Am I Doing Enough - Imposter Syndrome During Covid-19](http://gradswe.swe.org/gradswe-blog/am-i-doing-enough-imposter-syndrome-during-covid-19) on GradSWE Blog - April 2020
-
-* [Creating a Website to Manage Your Personal Brand](http://gradswe.swe.org/gradswe-blog/creating-a-website-to-manage-your-personal-brand) on GradSWE Blog - Jan 2020
-
-
 ## Awards
 ### UC Berkeley Department of Nuclear Engineering
 * Virgil Shrock Award for Outstanding Mentorship - May 2020
