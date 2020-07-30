@@ -13,6 +13,7 @@ author_profile: true
 
 ## Los Alamos National Laboratory
 **Space Science & Applications Intern** | May 2020 - August 2020
+* Project title: **Multi-pixel CdTe detector for space environment measurements**
 * Participated in the NSSC-LANL Keepin Summer Program - a seven week extended research internship that provides a survey of the national laboratory activities and mission space, focused research projects with a strong connection to nonproliferation science and technology, and a companion symposium series linking nuclear security science, technology, and policy.
 * Wrote code to generate a signal in a CdTe detector with an active guard ring.
 
