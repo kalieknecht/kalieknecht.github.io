@@ -11,6 +11,11 @@ author_profile: true
 * 3D Compton image reconstruction with scene data fusion using a free-moving gamma-ray detector and auxillary contextual sensor package.
 * Analyzing data from Fukushima Daiichi Nuclear Power Station parking lot with contaminated vehicles that were used in site cleanup.
 
+## Los Alamos National Laboratory
+**Space Science & Applications Intern** | May 2020 - August 2020
+* Participated in the NSSC-LANL Keepin Summer Program - a seven week extended research internship that provides a survey of the national laboratory activities and mission space, focused research projects with a strong connection to nonproliferation science and technology, and a companion symposium series linking nuclear security science, technology, and policy.
+* Wrote code to generate a signal in a CdTe detector with an active guard ring.
+
 ## Oak Ridge National Laboratory
 **Safeguards & Security Technology Intern** | May 2019 - August 2019
 * [End of Summer Poster](/files/ORNL.pdf).
