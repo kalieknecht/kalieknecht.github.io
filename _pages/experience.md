@@ -19,6 +19,7 @@ author_profile: true
 
 ## Oak Ridge National Laboratory
 **Safeguards & Security Technology Intern** | May 2019 - August 2019
+* Project title: **Improving Facility-Specific Safeguards with Data Analytics**
 * [End of Summer Poster](/files/ORNL.pdf).
 * Investigated current international safeguards methods for research reactors.
 * Collected data from HFIR-REDC Pu-238 production process to determine characteristics of normal operation at a research reactor with adjacent hot cell facilities.
