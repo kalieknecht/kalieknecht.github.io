@@ -1,0 +1,15 @@
+---
+title: "Evaluating 3D Gamma-ray Imaging Techniques for Distributed Sources at the Fukushima Daiichi Nuclear Power Station"
+collection: publications
+permalink: /publication/2020-11-01-Fukushima
+excerpt: 'Polaris-Lamp,a commercially available detector that has been integrated with contextual sensors, was hand-carried in a parking lot containing vehicles used during remediation efforts following the March 2011 Fukushima Daiichi Nuclear Power Station accident.'
+date: 2020-11-01
+venue: '2020 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9507840/'
+citation: 'K. Knecht <i>et. al.</i>, "Evaluating 3D Gamma-ray Imaging Techniques for Distributed Sources at the Fukushima Daiichi Nuclear Power Station," in <i>Proc. NSS/MIC</i>, 2020, pp. 1-5.'
+---
+Portable radiation detection systems can be equipped with contextual sensors to allow free-moving 3D gamma-ray source mapping and imaging through a method called scene data fusion (SDF). The scene information provided by the contextual sensors can be used to enable 3D mapping and constrain gamma-ray image reconstruction to improve accuracy and computational efficiency. SDF can be a useful tool in a wide range of radiological and nuclear safety and security applications such as radiation mapping for contamination remediation. To demonstrate SDF for this application, Polaris-Lamp,a commercially available detector that has been integrated with contextual sensors, was hand-carried in a parking lot containing vehicles used during remediation efforts following the March 2011 Fukushima Daiichi Nuclear Power Station accident. In order to detect and map potential contamination of the vehicles, proximity mapping and Compton imaging techniques have been applied to data collected over a series of short measurements, each covering different areas of the parking lot. Proximity mapping successfully identified which vehicles are contaminated, but Compton imaging further improved localization of intensity to key vehicle features on top of distributed contamination, demonstrating the utility of SDF in radiation mapping of unknown distributed source environments. Methods to stitch multiple reconstructions together were also developed, allowing the creation of large area radiation maps that are globally consistent. The work presented here illustrates the utility of SDF with an contextual-sensor enhanced commercial radiation detection and imaging system deployed in a hand-portable format to effectively map extended areas and localize radiological contamination within minutes which is impossible to achieve with conventional means with hand-portable radiation detectors or statically deployed gamma-ray imagers.
+
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/9507840/)
+
+Recommended citation: K. Knecht <i>et. al.</i>, "Evaluating 3D Gamma-ray Imaging Techniques for Distributed Sources at the Fukushima Daiichi Nuclear Power Station," in <i>Proc. NSS/MIC</i>, 2020, pp. 1-5.
