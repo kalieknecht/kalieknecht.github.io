@@ -25,7 +25,7 @@ author_profile: true
 * Undergraduate Scholarship - May 2017
 * Undergraduate Scholarship - May 2016
 
-### Amwerican Nuclear Society
+### American Nuclear Society
 * Charles Thomas Memorial Scholarship - May 2018
 * Oak Ridge/Knoxville ANS Undergraduate Scholarship - April 2018
 * Undergraduate Scholarship - May 2017
