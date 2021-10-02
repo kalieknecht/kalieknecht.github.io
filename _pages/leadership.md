@@ -6,15 +6,22 @@ author_profile: true
 ---
 
 {% include base_path %}
+## Graduate Women of Engineering (GradSWE) at UC Berkeley
+**Co-President** | August 2021- Present
+* Managing a team of 23 officers to manage the UC Berkeley GradSWE organization.
+* Coordinating with other student societies to plan a welcome back social event.
+
+**Web Master** | August 2020- August 2021
+* Transitioned website platform to wordpress.
+* Redesigned website to hold resources for graduate students and updates for upcoming events.
+* Created a Twitter account for organization to share news and upcoming events.
+* Coordinated with other officers to publicize events and programs. 
+
+
 ## Society of Women Engineers - Society Level
-**GradSWE Community Mentoring Coordinator** | October 2019 - Present
+**GradSWE Community Mentoring Coordinator** | October 2019 - May 2021
 * Communicating with the GradSWE community and SWE as a whole about the GradSWE Mentoring program.
 * Connecting mentors with mentees.
-
-**Curriculum Committee** | October 2018 - Present
-* Providing suggestions for new and altered professional development tracks based on review of
-current curriculum provided by the Society.
-* Identifying professional development topics desired by different career levels in the Society.
 
 **SWE Future Leader (SWEFL)** | May 2018 - May 2019
 * Participated in monthly phone calls with various professional development talks.

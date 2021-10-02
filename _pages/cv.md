@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download a PDF of my CV [here](/files/KalieKnechtResume.pdf).
+You can download a PDF of my CV [here](/files/KalieKnechtCV.pdf).
 
 
 # Education
@@ -17,7 +17,7 @@ You can download a PDF of my CV [here](/files/KalieKnechtResume.pdf).
 August 2019 - Present
 
 * Nuclear Science and Security Consortium Fellow
-* Minors: Public Policy and Computer Science
+* Minors: Radiation Imaging and Data Science
 
 ## University of Tennessee, Knoxville
 **Bachelor's of Science in Nuclear Engineering** |
@@ -35,8 +35,11 @@ August 2014 - May 2019
 * **Operating Systems**: Windows, macOS, and Linux
 * **Laboratory Skills**: Solid State Synthesis, X-ray Diffraction, Radiation Measurements, and Gamma Ray Spectrum Analysis
 
-# Work Experience
-Read about my work experience [here](/experience).
+# Research Experience
+Read about my research experience [here](/experience).
+
+# Teaching Experience
+Read about my teaching experience [here](/teaching).
 
 # Leadership Experience
 Read about my leadership experience [here](/leadership)

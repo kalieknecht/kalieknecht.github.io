@@ -17,6 +17,7 @@ author_profile: true
 
 ## Awards
 ### UC Berkeley Department of Nuclear Engineering
+* Virgil Shrock Award for Outstanding Service - May 2021
 * Virgil Shrock Award for Outstanding Mentorship - May 2020
 
 ### Department of Energy Integrated University Program

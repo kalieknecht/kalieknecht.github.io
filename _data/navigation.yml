@@ -9,14 +9,6 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "Experience"
-    url: /experience/
-
-  - title: "Teaching"
-    url: /teaching/   
-    
-  - title: "Leadership"
-    url: /leadership/
   
   - title: "Awards &  Features"
     url: /awards/
