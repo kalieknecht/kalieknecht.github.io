@@ -10,8 +10,13 @@ redirect_from:
 
 I am a nuclear engineering PhD student at UC Berkeley interested in radiation detection for applications in nuclear safeguards, security, and nonproliferation. My PhD research is on 3D Compton image reconstruction using a free-moving gamma-ray detector and auxiliary contextual sensor package. So far I have focused on Polaris-LAMP, a system which combines a commercial off-the-shelf radiation sensor developed by H3D with a contextual sensor package developed by Lawrence Berkeley National Laboratory to generate 3D reconstructions. I have analyzed data collected with this system at the Fukushima Daiichi Nuclear Power Station to generate 3D images of a parking lot with contaminated vehicles. I am currently analyzing data collected with Polaris-LAMP around the Chernobyl Nuclear Power Plant, including scenes around Pripyat such as the [famous amusement park](https://en.wikipedia.org/wiki/Pripyat_amusement_park). 
 
+<br/>
+
 <center>
-<img src="../images/pripyat_towncenter_cr.png" alt="Pripyat Town Center Counts" style="max-width:45%;"/> <img src="../images/pripyat_towncenter_compton.png" alt="Pripyat Town Center 3D Compton Image" style="max-width:45%;"/><center/>
+<img src="../images/pripyat_towncenter_cr.png" alt="Pripyat Town Center Counts" style="max-width:45%;"/> <img src="../images/pripyat_towncenter_compton.png" alt="Pripyat Town Center 3D Compton Image" style="max-width:45%;"/>
+</center>
+
+<br/>
 
 I received my B.S. in Nuclear Engineering from The University of Tennessee, Knoxville in May 2019. During undergrad, I conducted undergraduate research in the Materials Science & Engineering and Nuclear Engineering departments, where I analyzed candidate nuclear waste forms and evaluated the transition from an open to closed nuclear fuel cycle. I also interned at Argonne National Laboratory, where I developed code for SAS4A/SASSYS-1, a software used for deterministic analysis of transients in advanced nuclear reactors. 
 
