@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 ## Featured Articles
+* [Berkeley Science Review Article on Chernobyl Gamma-ray Imaging](https://www.berkeleysciencereview.com/article/2022/05/03/from-the-field) in the May 2022 edition of Berkeley Science Review.
+
 * [GradSWE Graduate Member Spotlight: Kalie Knecht](http://gradswe.swe.org/gradswe-blog/graduate-member-spotlight-kalie-knecht) on GradSWE Blog - February 2020
 
 * [The Prague Connection](https://ne.utk.edu/prague-connection/) on UTK NE Website - May 2019
@@ -17,6 +19,7 @@ author_profile: true
 
 ## Awards
 ### UC Berkeley Department of Nuclear Engineering
+* Virgil Shrock Award for Outstanding Service - May 2022
 * Best Student Paper on Radiation Detection and Imaging - Dec 2021
 * Virgil Shrock Award for Outstanding Service - May 2021
 * Virgil Shrock Award for Outstanding Mentorship - May 2020

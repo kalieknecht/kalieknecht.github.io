@@ -8,14 +8,16 @@ author_profile: true
 {% include base_path %}
 ## Lawrence Berkeley National Laboratory
 **Graduate Research Assistant** | August 2019 - Present
-* 3D Compton image reconstruction with scene data fusion using a free-moving gamma-ray detector and auxillary contextual sensor package.
-* Analyzing data from Fukushima Daiichi Nuclear Power Station parking lot with contaminated vehicles that were used in site cleanup.
+* Generated 3D Compton Images from radiation data collected at Fukushima Daiichi Nuclear Power Station and Chernobyl Nuclear Power Plant.
+* Using scene data collected by a free-moving gamma-ray detector and auxilliary contextual sensor package to optimize measurement positions for quantitative gamma-ray imaging.
+* Using 3D object detection and 3D semantic segmentation machine learning techniques to identify and label discrete objects in LiDAR point clouds.
+* Developing genetic and other algorithmic approaches to identify optimal measurement positions for quantitative gamma-ray imaging.
 
 ## Los Alamos National Laboratory
 **Space Science & Applications Intern** | May 2020 - August 2020
 * Project title: **Multi-pixel CdTe detector for space environment measurements**
 * Participated in the NSSC-LANL Keepin Summer Program - a seven week extended research internship that provides a survey of the national laboratory activities and mission space, focused research projects with a strong connection to nonproliferation science and technology, and a companion symposium series linking nuclear security science, technology, and policy.
-* Wrote code to generate a signal in a CdTe detector with an active guard ring.
+* Developed software to analyze the charge collection in a two-pixel semiconductor detector to be used in a space radiation telescope.
 
 ## Oak Ridge National Laboratory
 **Safeguards & Security Technology Intern** | May 2019 - August 2019

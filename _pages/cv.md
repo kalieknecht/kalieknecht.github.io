@@ -14,10 +14,12 @@ You can download a PDF of my CV [here](/files/KalieKnechtCV.pdf).
 # Education
 ## University of California, Berkeley
 **Doctor of Philosophy in Nuclear Engineering** |
-August 2019 - Present
+August 2019 - May 2024
 
 * Nuclear Science and Security Consortium Fellow
 * Minors: Radiation Imaging and Data Science
+* Graduate Certificate in Applied Data Science
+* Dissertation Title: Enhanced use of contextual data for quantitative gamma-ray imaging in nuclear safeguards applications
 
 ## University of Tennessee, Knoxville
 **Bachelor's of Science in Nuclear Engineering** |

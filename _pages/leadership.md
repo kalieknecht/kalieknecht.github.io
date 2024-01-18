@@ -7,16 +7,20 @@ author_profile: true
 
 {% include base_path %}
 ## Graduate Women of Engineering (GradSWE) at UC Berkeley
-**Co-President** | August 2021- Present
-* Managing a team of 23 officers to manage the UC Berkeley GradSWE organization.
-* Coordinating with other student societies to plan a welcome back social event.
+**New Student Chair** | August 2022 - May 2023
+* Organized "Grad School 101" workshops to facilitate the transition to graduate school for first year students.
+* Oversaw the GWE Buddies peer mentoring program that pairs first year students with returning graduate students.
 
-**Web Master** | August 2020- August 2021
+**Co-President** | August 2021 - July 2022
+* Managed a team of 23 officers to manage the UC Berkeley GradSWE organization.
+* Coordinated with other student societies to plan a welcome back social event for over 200 engineering graduate students.
+
+**Web Master** | August 2020 - August 2021
 * Transitioned website platform to wordpress.
 * Redesigned website to hold resources for graduate students and updates for upcoming events.
 * Created a Twitter account for organization to share news and upcoming events.
 * Coordinated with other officers to publicize events and programs. 
-
+* Created a peer mentoring program, called GWE Buddies.
 
 ## Society of Women Engineers - Society Level
 **GradSWE Community Mentoring Coordinator** | October 2019 - May 2021
