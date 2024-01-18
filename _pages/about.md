@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a nuclear engineering PhD student at UC Berkeley interested in radiation detection for applications in nuclear safeguards, security, and nonproliferation. My PhD research is on 3D Compton image reconstruction using a free-moving gamma-ray detector and auxiliary contextual sensor package. My focus has been on improving the use of information collected by the auxilliary contexual sensors by using computer vision techniques to identify and label objects in a LiDAR point cloud and optimizing measurement static measurement positions for quantitative Compton imaging.
+I am a nuclear engineering PhD student at UC Berkeley interested in radiation detection for applications in nuclear safeguards, security, and nonproliferation. My PhD research is on 3D Compton image reconstruction using a free-moving gamma-ray detector and auxiliary contextual sensor package. My focus has been on improving the use of information collected by the auxilliary contexual sensors through using computer vision techniques to identify and label objects in a LiDAR point cloud and optimizing static measurement positions for quantitative Compton imaging.
 
 During my PhD I have analyzed data collected at the Fukushima Daiichi Nuclear Power Station to generate 3D images of a parking lot with contaminated vehicles. I have also analyzed data collected with Polaris-LAMP around the Chernobyl Nuclear Power Plant, including scenes around Pripyat such as the [famous amusement park](https://en.wikipedia.org/wiki/Pripyat_amusement_park). 
 
