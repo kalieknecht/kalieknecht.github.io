@@ -13,4 +13,6 @@ In this work the scene information obtained from contextual sensors is used to c
 
 We first demonstrate the feasibility of the optimization framework with a toy model. We then use a SDF-enabled gamma-ray imager to find optimal measurement positions for a mock material holdup loop with distributed sources. We present our approach and results by performing an optimization to produce quantitative Compton images in these low-count-rate environments and the minimization of associated uncertainties. 
 
-Recommended citation: K. Knecht <i>et. al.</i>, "Enhanced use of contextual data for quantitative Compton Imaging," 2023 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC).
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/10337904)
+
+Recommended citation: K. Knecht <i>et al.</i>, "Enhanced use of contextual data for quantitative Compton imaging," 2023 IEEE Nuclear Science Symposium, Medical Imaging Conference and International Symposium on Room-Temperature Semiconductor Detectors (NSS MIC RTSD), Vancouver, BC, Canada, 2023, pp. 1-1, doi: 10.1109/NSSMICRTSD49126.2023.10337904.
