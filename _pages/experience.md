@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 ## Lawrence Berkeley National Laboratory
-**Graduate Research Assistant** | August 2019 - Present
+**Graduate Research Assistant** | August 2019 - May 2024
 * Generated 3D Compton Images from radiation data collected at Fukushima Daiichi Nuclear Power Station and Chernobyl Nuclear Power Plant.
-* Using scene data collected by a free-moving gamma-ray detector and auxilliary contextual sensor package to optimize measurement positions for quantitative gamma-ray imaging.
-* Using 3D object detection and 3D semantic segmentation machine learning techniques to identify and label discrete objects in LiDAR point clouds.
-* Developing genetic and other algorithmic approaches to identify optimal measurement positions for quantitative gamma-ray imaging.
+* Used scene data collected by a free-moving gamma-ray detector and auxilliary contextual sensor package to optimize measurement positions for quantitative gamma-ray imaging.
+* Used 3D object detection and 3D semantic segmentation machine learning techniques to identify and label discrete objects in LiDAR point clouds.
+* Developed genetic and other algorithmic approaches to identify optimal measurement positions for quantitative gamma-ray imaging.
 
 ## Los Alamos National Laboratory
 **Space Science & Applications Intern** | May 2020 - August 2020

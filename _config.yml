@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Kalie Knecht"
 title_separator          : "-"
-name                     : &name "Kalie Knecht"
-description              : &description "Nuclear Engineering PhD student at UC Berkeley."
+name                     : &name "Kalie Knecht, PhD"
+description              : &description "Nuclear Engineer"
 url                      : "https://kalieknecht.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kalieknecht/kalieknecht.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Kalie Knecht"
   avatar           : "profile.jpg"
-  bio              : "Kalie is a Nuclear Engineering PhD student at UC Berkeley interested in radiation detection for applications in nuclear safeguards, security, and nonproliferation."
-  location         : "Berkeley, CA"
+  bio              : "Kalie is a Nuclear Engineer interested in radiation detection for applications in nuclear safeguards, security, and nonproliferation."
+  location         : "Oakland, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=-gdxZkcAAAAJ&hl=en"
