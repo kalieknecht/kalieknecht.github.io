@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kalie Knecht"
+title                    : "Kalie Knecht, PhD"
 title_separator          : "-"
 name                     : &name "Kalie Knecht, PhD"
 description              : &description "Nuclear Engineer"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kalie Knecht"
+  name             : "Kalie Knecht, PhD"
   avatar           : "profile.jpg"
   bio              : "Kalie is a Nuclear Engineer interested in radiation detection for applications in nuclear safeguards, security, and nonproliferation."
   location         : "Oakland, CA"
