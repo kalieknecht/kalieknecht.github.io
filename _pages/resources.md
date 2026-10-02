@@ -11,7 +11,3 @@ author_profile: true
 
 ## Professional Development
 * [Creating a Website to Manage Your Personal Brand](http://kalie.info/posts/2020/01/website/) for GradSWE blog - January 2020
-
-## Personal Development
-* [Am I Doing Enough - Imposter Syndrome During Covid-19](https://alltogether.swe.org/2020/05/am-i-doing-enough-imposter-syndrome-during-covid-19/) for SWE All Together blog - May 2020
-* [Am I Doing Enough - Imposter Syndrome During Covid-19](http://gradswe.swe.org/gradswe-blog/am-i-doing-enough-imposter-syndrome-during-covid-19) for GradSWE blog - April 2020
