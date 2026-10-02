@@ -6,6 +6,17 @@ author_profile: true
 ---
 
 {% include base_path %}
+## Smoky Mountain Society of Women Engineers
+**President** | June 2026 - Present
+* Managing team of 8 officers.
+* Maintaining website and public calendar with upcoming events.
+**President-Elect** | June 2025 - May 2026
+* Volunteered at outreach events with the UTK SWE section to encourage K-12 girls to pursue careers in STEM through hands-on engineering activities. 
+* Mentoring 2 undergraduate engineering students from UTK SWE through their alumni mentoring program to support their academic and professional development through regular meetings.
+**Social Media Chair** | September 2024 - May 2025
+* Managed Facebook and LinkedIn pages for Smoky Mountain SWE section to advertise upcoming events and cross-promote events from other local affinity groups.
+* Maintained Smoky Mountain SWE website.
+* Planned and organized social events for women in engineering in East Tennessee.
 ## Graduate Women of Engineering (GradSWE) at UC Berkeley
 **New Student Chair** | August 2022 - May 2023
 * Organized "Grad School 101" workshops to facilitate the transition to graduate school for first year students.
