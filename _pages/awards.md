@@ -20,6 +20,9 @@ author_profile: true
 * [American Nuclear Society shapes, connects nuclear scientists of tomorrow](http://www.utdailybeacon.com/news/student_oranizations/american-nuclear-society-shapes-connects-nuclear-scientists-of-tomorrow/article_16f177c4-2237-11e8-b65f-370f0ec25024.html) from UT Daily Beacon - March 2018
 
 ## Awards
+### Oak Ridge National Laboratory
+* Performance Award for fieldwork efforts - June 2026
+* Performance Award for mentorship - September 2025
 ### UC Berkeley Department of Nuclear Engineering
 * Virgil Shrock Award for Outstanding Service - May 2022
 * Best Student Paper on Radiation Detection and Imaging - Dec 2021
