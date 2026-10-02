@@ -22,6 +22,7 @@ author_profile: true
 * Assembled a pandas dataframe of data collected in preliminary data hunt.
 * Visualized data using python tools.
 * Presented research at end of summer poster session.
+
 ## Lawrence Berkeley National Laboratory
 **Graduate Research Assistant** | August 2019 - May 2024
 * Generated 3D Compton Images from radiation data collected at Fukushima Daiichi Nuclear Power Station and Chernobyl Nuclear Power Plant.
