@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 ## Featured Articles
+* [ORNL visit sparks student interest in the nuclear workforce](https://www.ornl.gov/organization-news/ornl-visit-sparks-student-interest-nuclear-workforce) on ORNL News.
+
 * [UC Berkeley engineers send equipment, expertise to ransacked Chernobyl](https://news.berkeley.edu/2022/08/05/uc-berkeley-engineers-send-equipment-expertise-to-ransacked-chernobyl/) on Berkeley News.
 
 * [Berkeley Science Review Article on Chernobyl Gamma-ray Imaging](https://www.berkeleysciencereview.com/article/2022/05/03/from-the-field) in the May 2022 edition of Berkeley Science Review.
