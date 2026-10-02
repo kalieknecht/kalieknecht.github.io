@@ -32,11 +32,17 @@ May 2019
 * Senior design project: Core Design of a NuScale SMR using CASL's Virtual Enviornment for Reactor Applications (VERA).
 
 # Skills
-* **Programming Languages**: Python and Fortran
-* **Code Proficiencies**: MCNP, GOTHIC, and Cyclus
-* **Software Proficiencies**: MS Office, LaTeX, and Matlab
+* **Programming Languages**: Python, C++, OpenCL, Fortran
+* **Machine Learning & AI Techniques**: eep Learning, Reinforcement Learning, Autoencoders, Triplet Loss, Anomaly Detection, Embedding Analysis, Transformers, LLMs, Prompt Engineering, RAG 
+* **Libraries and Frameworks**: PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers 
+* **Computer Vision**: Instance Segmentation, Object Detection, Semantic Segmentation, SLAM, OpenCV, 3D Perception, Point Cloud Processing, Sensor Fusion
+* **Data Engineering**: Pandas, NumPy, SciPy, SQL, HDF5, ROS, PCAP 
+* **Scientific Computing**: MCNP, GOTHIC, Cyclus, Radiation Transport Modeling
+* **Version Control**: Git, SVN
+* **Containers and Virtualization**: Docker, Conda
+* **Markup and Documentation**: LaTeX, Markdown, Sphinx
 * **Operating Systems**: Windows, macOS, and Linux
-* **Laboratory Skills**: Solid State Synthesis, X-ray Diffraction, Radiation Measurements, and Gamma Ray Spectrum Analysis
+* **Laboratory Skills**: Solid State Synthesis, X-ray Diffraction, Radiation Measurements, and Gamma-Ray Spectroscopy
 
 # Research Experience
 Read about my research experience [here](/experience).
