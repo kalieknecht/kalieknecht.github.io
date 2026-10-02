@@ -12,6 +12,7 @@ author_profile: true
 * Training and evaluating deep learning models for anomaly detection and spectral classification, including transformer-based models and autoencoders applied to simulated spectro-temporal radiation data and KUT source mixtures.
 * Designing and executing large-scale prompt engineering and evaluation pipelines for large language model (LLM)-based question generation, benchmarking retrieval-augmented generation (RAG) and non-RAG agents using Qwen, Gemma, and DeepSeek models for domain-specific datasets.
 * Developing ML-driven tools for sensor anomaly detection and vehicle re-identification and tracking using object detection models and LLMs; integrated outputs into a real-time data state-of-health framework for radiation sensing nodes across field deployments.
+
 **Safeguards & Security Technology Intern** | May 2019 - August 2019
 * Project title: **Improving Facility-Specific Safeguards with Data Analytics**
 * [End of Summer Poster](/files/ORNL.pdf).
