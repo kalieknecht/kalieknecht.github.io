@@ -6,6 +6,21 @@ author_profile: true
 ---
 
 {% include base_path %}
+## Oak Ridge National Laboratory
+**Applied Data Scientist** | September 2024 - Present
+* Developing and deploying ML pipelines for autonomous radiation mapping, integrating real-time multimodal sensor data (e.g., camera, NaI, LiDAR) with custom exploration and proximity-based decision frameworks on a quadruped robotic platform.
+* Training and evaluating deep learning models for anomaly detection and spectral classification, including transformer-based models and autoencoders applied to simulated spectro-temporal radiation data and KUT source mixtures.
+* Designing and executing large-scale prompt engineering and evaluation pipelines for large language model (LLM)-based question generation, benchmarking retrieval-augmented generation (RAG) and non-RAG agents using Qwen, Gemma, and DeepSeek models for domain-specific datasets.
+* Developing ML-driven tools for sensor anomaly detection and vehicle re-identification and tracking using object detection models and LLMs; integrated outputs into a real-time data state-of-health framework for radiation sensing nodes across field deployments.
+**Safeguards & Security Technology Intern** | May 2019 - August 2019
+* Project title: **Improving Facility-Specific Safeguards with Data Analytics**
+* [End of Summer Poster](/files/ORNL.pdf).
+* Investigated current international safeguards methods for research reactors.
+* Collected data from HFIR-REDC Pu-238 production process to determine characteristics of normal operation at a research reactor with adjacent hot cell facilities.
+* Researched OCR technology to determine best tool to transcribe PDF data.
+* Assembled a pandas dataframe of data collected in preliminary data hunt.
+* Visualized data using python tools.
+* Presented research at end of summer poster session.
 ## Lawrence Berkeley National Laboratory
 **Graduate Research Assistant** | August 2019 - May 2024
 * Generated 3D Compton Images from radiation data collected at Fukushima Daiichi Nuclear Power Station and Chernobyl Nuclear Power Plant.
@@ -18,17 +33,6 @@ author_profile: true
 * Project title: **Multi-pixel CdTe detector for space environment measurements**
 * Participated in the NSSC-LANL Keepin Summer Program - a seven week extended research internship that provides a survey of the national laboratory activities and mission space, focused research projects with a strong connection to nonproliferation science and technology, and a companion symposium series linking nuclear security science, technology, and policy.
 * Developed software to analyze the charge collection in a two-pixel semiconductor detector to be used in a space radiation telescope.
-
-## Oak Ridge National Laboratory
-**Safeguards & Security Technology Intern** | May 2019 - August 2019
-* Project title: **Improving Facility-Specific Safeguards with Data Analytics**
-* [End of Summer Poster](/files/ORNL.pdf).
-* Investigated current international safeguards methods for research reactors.
-* Collected data from HFIR-REDC Pu-238 production process to determine characteristics of normal operation at a research reactor with adjacent hot cell facilities.
-* Researched OCR technology to determine best tool to transcribe PDF data.
-* Assembled a pandas dataframe of data collected in preliminary data hunt.
-* Visualized data using python tools.
-* Presented research at end of summer poster session.
 
 ## Argonne National Laboratory
 **Nuclear Science & Engineering Intern** | May 2018 - August 2018
